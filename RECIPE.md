@@ -34,6 +34,7 @@ This repo is the daily pipeline for one 9:16 health & wellness short a day. The 
 
 5. **Generate**, in dependency order:
    - TTS and image nodes first (images 1 each). Wait for them to finish.
+   - Look at the 4 frames. If a frame contradicts its motion prompt (for example, walking down instead of up), edit that LTX node's prompt to match the frame. Editing is free; never regenerate the frame.
    - Then the presenter and LTX nodes. Wait until all are complete, polling `creative_get_flow_run_status` every ~30 s.
    - Never re-run a node to retry. If one fails, report it and stop.
 
@@ -56,8 +57,9 @@ This repo is the daily pipeline for one 9:16 health & wellness short a day. The 
    - Commit and push to `main`.
    - Check that the raw URL returns HTTP 200: `curl -sI`.
 
-9. **Schedule the post.**
-   - Pick the best Facebook slot in the next 24 h with `getBestTimeToPostByNetwork` (brand 7945364, timezone Europe/Dublin). It must be at least 30 min from now. If that fails, use 23:30 Europe/Dublin (6:30 pm US Eastern).
+9. **Schedule the post. One post per day, never two on the same date.**
+   - Choose the publish **date**: the earliest date, starting today, that no entry in `topics/log.json` has a `post_time` on. The owner sometimes makes a video ahead of time, so tomorrow may already be taken.
+   - On that date, pick the highest-value hour from `getBestTimeToPostByNetwork` (brand 7945364, network facebook, timezone Europe/Dublin), at :30 past that hour. If the date is today, the slot must be at least 30 min from now. If the tool fails, use 20:30 Europe/Dublin.
    - Call `createScheduledPost` with `blogId 7945364` and `info`:
      - `providers [{"network":"facebook"}]`
      - `text`: the spec's `fb_text`, followed by a blank line and `Presenter, voice and visuals created with AI.`
