@@ -1,0 +1,216 @@
+[
+  {
+    "id": "muscle-after-30",
+    "topic": "Muscle loss after 30 and strength training",
+    "hook_tts": "[surprised] After thirty, your body starts losing muscle. [warmly] And most women have no idea.",
+    "hook_caption_split": ["After 30, your body starts losing muscle.", "And most women have no idea."],
+    "lines": [
+      {"tts": "Research suggests we lose roughly three to eight percent of our muscle every decade after thirty.", "caption": "Research suggests we lose roughly 3 to 8% of our muscle every decade after 30."},
+      {"tts": "And around menopause, falling estrogen can speed that up.", "caption": "And around menopause, falling estrogen can speed that up."},
+      {"tts": "Less muscle means weaker bones, a slower metabolism… and a higher risk of falls later in life.", "caption": "Less muscle means weaker bones, a slower metabolism, and a higher risk of falls later in life."},
+      {"tts": "[warmly] The good news? Strength training works at any age.", "caption": "The good news? Strength training works at any age."},
+      {"tts": "Two or three sessions a week. Squats, push-ups, resistance bands, dumbbells. It doesn't have to be a gym.", "caption": "Two or three sessions a week. Squats, push-ups, bands, dumbbells. It doesn't have to be a gym."},
+      {"tts": "[playfully] And no, you won't get bulky. You'll get strong.", "caption": "And no, you won't get bulky. You'll get strong."},
+      {"tts": "[warmly] Follow for more health stuff nobody told us.", "caption": "Follow for more health stuff nobody told us."}
+    ],
+    "cards": [
+      {"at_line": -1, "head": "After 30, muscle\nstarts leaving"},
+      {"at_line": 0, "head": "3–8% per\ndecade", "sub": "and menopause speeds it up"},
+      {"at_line": 2, "head": "Why it\nmatters", "sub": "bones, metabolism, balance"},
+      {"at_line": 3, "head": "Lift something\nheavy", "sub": "2–3 times a week"},
+      {"at_line": 5, "head": "Strong,\nnot bulky"},
+      {"at_line": 6, "head": "Follow for\nmore"}
+    ],
+    "broll": [
+      {"lines": [0, 1], "frame_prompt": "Photorealistic vertical photo: a woman in her late 30s looking thoughtfully at her reflection in a bright bathroom mirror in the morning, natural light, calm and real. No text.", "motion_prompt": "She turns slightly and gently touches her upper arm, thoughtful expression, slow camera push-in, soft morning light. Realistic motion."},
+      {"lines": [2], "frame_prompt": "Photorealistic vertical photo: an active woman around 40 carrying heavy grocery bags up the front steps of a suburban home, sunny afternoon, everyday life. No text.", "motion_prompt": "She climbs the steps carrying the bags with ease, natural walking motion, handheld camera follows. Realistic motion."},
+      {"lines": [3, 4], "frame_prompt": "Photorealistic vertical photo: a woman in her late 30s doing a goblet squat with a dumbbell in a bright living room with a yoga mat, comfortable activewear, focused and confident. Modest, wellness style. No text.", "motion_prompt": "She performs slow controlled squats holding the dumbbell, steady breathing, calm camera. Realistic motion."},
+      {"lines": [5, 6], "frame_prompt": "Photorealistic vertical photo: a smiling woman around 40 finishing a workout at a bright local gym, holding a light dumbbell, confident and happy, natural light. No text.", "motion_prompt": "She sets the dumbbell down, smiles proudly and wipes her brow with a towel, slow camera drift. Realistic motion."}
+    ],
+    "fb_title": "Nobody tells women this after 30",
+    "fb_text": "Muscle is your long-term health insurance. Save this for your next workout. Which exercise are you starting with?\n\n#womenshealth #strengthtraining #over30 #healthyaging\n\nGeneral information only, not medical advice. Talk to your doctor before starting a new exercise program."
+  },
+  {
+    "id": "perimenopause-signs",
+    "topic": "Perimenopause signs nobody warns you about",
+    "hook_tts": "[warmly] If you're in your late thirties or forties and you just don't feel like yourself… [softly] it might not be stress.",
+    "hook_caption_split": ["If you're in your late 30s or 40s and don't feel like yourself...", "it might not be stress."],
+    "lines": [
+      {"tts": "Perimenopause, the run-up to menopause, can start years before your periods stop. And a lot of women miss the signs.", "caption": "Perimenopause can start years before your periods stop. A lot of women miss the signs."},
+      {"tts": "One: brain fog. Losing words, forgetting why you walked into a room.", "caption": "One: brain fog. Losing words, forgetting why you walked into a room."},
+      {"tts": "Two: waking up at three a.m. and not getting back to sleep.", "caption": "Two: waking up at 3am and not getting back to sleep."},
+      {"tts": "Three: anxiety or irritability that seems to come out of nowhere.", "caption": "Three: anxiety or irritability out of nowhere."},
+      {"tts": "Four: periods getting heavier, lighter, closer together, or further apart.", "caption": "Four: periods getting heavier, lighter, closer together or further apart."},
+      {"tts": "These can have other causes too, so track your symptoms and take the list to your doctor. [warmly] You deserve answers.", "caption": "These can have other causes too. Track your symptoms and take the list to your doctor."},
+      {"tts": "Send this to a friend who needs to hear it.", "caption": "Send this to a friend who needs to hear it."}
+    ],
+    "cards": [
+      {"at_line": -1, "head": "It might not\nbe stress"},
+      {"at_line": 0, "head": "Perimenopause", "sub": "can start years early"},
+      {"at_line": 1, "head": "1. Brain fog"},
+      {"at_line": 2, "head": "2. 3am\nwake-ups"},
+      {"at_line": 3, "head": "3. Anxiety\nor rage"},
+      {"at_line": 4, "head": "4. Changing\nperiods"},
+      {"at_line": 5, "head": "Talk to your\ndoctor", "sub": "you deserve answers"},
+      {"at_line": 6, "head": "Send this to\na friend"}
+    ],
+    "broll": [
+      {"lines": [0, 1], "frame_prompt": "Photorealistic vertical photo: a woman in her early 40s standing in a kitchen holding her phone, looking confused as if she forgot what she came in for, natural daylight, relatable. No text.", "motion_prompt": "She pauses, looks around the kitchen puzzled, then rubs her forehead and smiles at herself, slow handheld camera. Realistic motion."},
+      {"lines": [2], "frame_prompt": "Photorealistic vertical photo: a woman in her 40s lying awake in bed at night, eyes open, soft blue moonlight and a bedside clock glowing, calm bedroom. No text.", "motion_prompt": "She turns over restlessly and stares at the ceiling, soft moonlight, very slow camera push-in. Realistic motion."},
+      {"lines": [3, 4], "frame_prompt": "Photorealistic vertical photo: a woman around 42 sitting at a home desk with a planner, looking stressed and overwhelmed, hand on her temple, bright afternoon light. No text.", "motion_prompt": "She exhales, closes the planner and leans back in her chair, slow camera drift. Realistic motion."},
+      {"lines": [5, 6], "frame_prompt": "Photorealistic vertical photo: a woman in her 40s talking with a friendly female doctor in a bright modern clinic office, the doctor listening attentively, reassuring atmosphere. No text, no logos.", "motion_prompt": "The doctor nods and smiles while the woman explains, both relaxed, slow camera push-in. Realistic motion."}
+    ],
+    "fb_title": "It's not just stress",
+    "fb_text": "Which one surprised you? Tell me below.\n\n#perimenopause #womenover40 #hormonehealth #womenshealth\n\nGeneral information only, not medical advice. Talk to your doctor about any symptoms."
+  },
+  {
+    "id": "protein-breakfast",
+    "topic": "Protein at breakfast and the 11am crash",
+    "hook_tts": "[curious] Starving by eleven, even though you ate breakfast? [warmly] Look at your plate.",
+    "hook_caption_split": ["Starving by 11am even though you ate breakfast?", "Look at your plate."],
+    "lines": [
+      {"tts": "Toast, cereal, a pastry and coffee. That's mostly fast carbs… and it's often followed by an energy dip and cravings.", "caption": "Toast, cereal, a pastry and coffee. Mostly fast carbs, often followed by an energy dip."},
+      {"tts": "Try building breakfast around protein instead.", "caption": "Try building breakfast around protein instead."},
+      {"tts": "Eggs, Greek yogurt, cottage cheese, a protein smoothie. Even last night's leftovers.", "caption": "Eggs, Greek yogurt, cottage cheese, a protein smoothie, even leftovers."},
+      {"tts": "Protein keeps you fuller for longer and helps protect muscle as you age.", "caption": "Protein keeps you fuller for longer and helps protect muscle as you age."},
+      {"tts": "An easy guide: a palm-sized portion of protein, plus fruit or veggies, plus some fiber.", "caption": "Easy guide: a palm of protein, plus fruit or veggies, plus some fiber."},
+      {"tts": "[playfully] Try it for one week and tell me if your eleven a.m. crash disappears. Follow for more.", "caption": "Try it for a week and tell me if your 11am crash disappears. Follow for more."}
+    ],
+    "cards": [
+      {"at_line": -1, "head": "Starving\nby 11am?"},
+      {"at_line": 0, "head": "Toast + coffee", "sub": "= the crash"},
+      {"at_line": 1, "head": "Protein\nfirst"},
+      {"at_line": 4, "head": "Palm-sized\nportion"},
+      {"at_line": 5, "head": "Try it for\na week"}
+    ],
+    "broll": [
+      {"lines": [0], "frame_prompt": "Photorealistic vertical photo: a tired woman in her late 30s at an office desk mid-morning, yawning beside a coffee cup and a half-eaten pastry, natural light. No text, no logos.", "motion_prompt": "She yawns, rubs her eyes and glances at the clock, slow camera push-in. Realistic motion."},
+      {"lines": [1, 2], "frame_prompt": "Photorealistic vertical overhead photo: a bright kitchen counter with a breakfast of scrambled eggs, Greek yogurt with berries, and whole-grain toast, a woman's hands plating it, morning sun. No text.", "motion_prompt": "Her hands spoon berries onto the yogurt bowl and slide the plate forward, gentle overhead camera drift. Realistic motion."},
+      {"lines": [3, 4], "frame_prompt": "Photorealistic vertical photo: a woman around 38 blending a protein smoothie in a bright modern kitchen, smiling, fruit on the counter. No text, no logos.", "motion_prompt": "She pours the smoothie into a glass and takes a sip, smiling, slow camera drift. Realistic motion."},
+      {"lines": [5], "frame_prompt": "Photorealistic vertical photo: an energized woman in her late 30s walking confidently through a bright office at late morning, holding a water bottle, smiling. No text, no logos.", "motion_prompt": "She walks toward camera smiling and greets a coworker with a wave, handheld tracking camera. Realistic motion."}
+    ],
+    "fb_title": "Why you're starving by 11am",
+    "fb_text": "The easiest breakfast upgrade there is. What's your go-to protein breakfast?\n\n#proteinbreakfast #healthyhabits #womenshealth #nutrition\n\nGeneral information only, not medical advice."
+  },
+  {
+    "id": "walk-after-meals",
+    "topic": "A 10-minute walk after meals",
+    "hook_tts": "[warmly] Here's a free habit that might do more than your supplements.",
+    "hook_caption_split": ["Here's a free habit that might do more than your supplements."],
+    "lines": [
+      {"tts": "Go for a ten-minute walk after your biggest meal.", "caption": "Go for a 10-minute walk after your biggest meal."},
+      {"tts": "When you move, your muscles use the sugar from your food, which can help flatten the blood sugar spike after eating.", "caption": "When you move, your muscles use sugar from your food, which can help flatten the spike."},
+      {"tts": "Lots of people also find it helps with bloating and that heavy, sluggish feeling in the evening.", "caption": "Lots of people find it helps with bloating and that heavy evening feeling."},
+      {"tts": "No time for ten? Even a few minutes of light movement helps. Do the dishes, pace on a call, walk the dog.", "caption": "No time? A few minutes helps. Do the dishes, pace on a call, walk the dog."},
+      {"tts": "[playfully] Tag the person you're dragging on a walk tonight.", "caption": "Tag the person you're dragging on a walk tonight."}
+    ],
+    "cards": [
+      {"at_line": -1, "head": "Do this after\ndinner"},
+      {"at_line": 0, "head": "A 10-minute\nwalk"},
+      {"at_line": 1, "head": "Smaller blood\nsugar spike"},
+      {"at_line": 2, "head": "Less bloating"},
+      {"at_line": 3, "head": "No time?", "sub": "even 2 minutes helps"},
+      {"at_line": 4, "head": "Tag your\nwalking buddy"}
+    ],
+    "broll": [
+      {"lines": [0], "frame_prompt": "Photorealistic vertical photo: a woman in her late 30s and her partner putting on sneakers by the front door after dinner, warm evening light, cozy home. No text.", "motion_prompt": "They finish tying their shoes, smile at each other and open the door, slow camera drift. Realistic motion."},
+      {"lines": [1], "frame_prompt": "Photorealistic vertical photo: two friends in their late 30s walking and chatting on a tree-lined suburban sidewalk at golden hour. No text.", "motion_prompt": "They walk toward camera laughing and talking, gentle handheld tracking shot, golden light. Realistic motion."},
+      {"lines": [2], "frame_prompt": "Photorealistic vertical photo: a relaxed woman around 40 walking her dog in a park at sunset, content expression. No text.", "motion_prompt": "She strolls along the path as the dog trots ahead, slow tracking camera, warm sunset. Realistic motion."},
+      {"lines": [3, 4], "frame_prompt": "Photorealistic vertical photo: a woman in her late 30s pacing in a bright living room while on a phone call, smiling, evening lamp light. No text.", "motion_prompt": "She paces slowly across the room talking on the phone and laughing, slow camera pan. Realistic motion."}
+    ],
+    "fb_title": "Do this after you eat",
+    "fb_text": "Small habit, big payoff. Who's walking with you tonight?\n\n#walking #bloodsugar #healthyhabits #womenshealth\n\nGeneral information only, not medical advice."
+  },
+  {
+    "id": "tired-all-the-time",
+    "topic": "Tired all the time: iron, thyroid, vitamin D",
+    "hook_tts": "[warmly] If you're exhausted all the time… stop telling yourself it's just being busy.",
+    "hook_caption_split": ["Exhausted all the time?", "Stop telling yourself it's just being busy."],
+    "lines": [
+      {"tts": "There are a few common, very checkable reasons behind it, especially for women.", "caption": "There are a few common, very checkable reasons, especially for women."},
+      {"tts": "One: iron. Heavy periods can quietly drain your iron stores. Ask about ferritin, not just a basic blood count.", "caption": "One: iron. Heavy periods can drain your stores. Ask about ferritin."},
+      {"tts": "Two: thyroid. An underactive thyroid is much more common in women, and can cause tiredness, weight changes, and feeling cold.", "caption": "Two: thyroid. An underactive thyroid is more common in women."},
+      {"tts": "Three: vitamin D. Especially if you don't get much sun for half the year.", "caption": "Three: vitamin D. Especially if you don't get much sun."},
+      {"tts": "Don't start megadosing supplements. Get tested first, then fix what's actually low.", "caption": "Don't megadose supplements. Get tested first, then fix what's actually low."},
+      {"tts": "Save this for your next doctor's appointment.", "caption": "Save this for your next doctor's appointment."}
+    ],
+    "cards": [
+      {"at_line": -1, "head": "Always\nexhausted?"},
+      {"at_line": 0, "head": "Ask your doctor\nabout these"},
+      {"at_line": 1, "head": "1. Iron", "sub": "ask about ferritin"},
+      {"at_line": 2, "head": "2. Thyroid"},
+      {"at_line": 3, "head": "3. Vitamin D"},
+      {"at_line": 4, "head": "Test,\ndon't guess"},
+      {"at_line": 5, "head": "Save this"}
+    ],
+    "broll": [
+      {"lines": [0, 1], "frame_prompt": "Photorealistic vertical photo: an exhausted woman in her late 30s resting her head on her arms at a kitchen table in the afternoon, a cup of coffee beside her, natural light. No text.", "motion_prompt": "She slowly lifts her head, sighs and rubs her eyes, slow camera push-in. Realistic motion."},
+      {"lines": [2], "frame_prompt": "Photorealistic vertical photo: a woman around 40 wrapped in a cardigan on the sofa holding a warm mug, looking chilly and tired, cozy living room. No text.", "motion_prompt": "She pulls the cardigan tighter and sips from the mug, gentle camera drift. Realistic motion."},
+      {"lines": [3], "frame_prompt": "Photorealistic vertical photo: a woman in her late 30s stepping outside into bright winter sunshine, face turned up to the sun, eyes closed, peaceful. No text.", "motion_prompt": "She breathes in and smiles as sunlight hits her face, slow camera push-in. Realistic motion."},
+      {"lines": [4, 5], "frame_prompt": "Photorealistic vertical photo: a woman in her late 30s at a bright clinic having a routine blood draw by a friendly nurse, relaxed and smiling. No text, no logos, no needles visible in close-up.", "motion_prompt": "The nurse places a small bandage on her arm and they both smile, slow camera drift. Realistic motion."}
+    ],
+    "fb_title": "Exhausted isn't normal",
+    "fb_text": "Tiredness is a symptom, not a personality. Applies to you too, guys.\n\n#fatigue #irondeficiency #thyroid #womenshealth\n\nGeneral information only, not medical advice. Talk to your doctor about testing."
+  },
+  {
+    "id": "3am-wake-up",
+    "topic": "Why you wake up at 3am",
+    "hook_tts": "[curious] Wide awake at three a.m., brain running a to-do list? [warmly] You're not alone.",
+    "hook_caption_split": ["Wide awake at 3am, brain running a to-do list?", "You're not alone."],
+    "lines": [
+      {"tts": "Stress, alcohol, a late heavy meal, and for women in their forties, shifting hormones, can all break up your sleep in the early hours.", "caption": "Stress, alcohol, late meals, and shifting hormones can all break up your sleep."},
+      {"tts": "One: watch the evening glass of wine. It helps you drift off, but tends to disrupt sleep later in the night.", "caption": "One: watch the evening wine. It tends to disrupt sleep later in the night."},
+      {"tts": "Two: keep your bedroom cool and dark. Overheating is a big trigger.", "caption": "Two: keep your bedroom cool and dark."},
+      {"tts": "Three: write tomorrow's to-do list before bed, so your brain doesn't do it at three a.m.", "caption": "Three: write tomorrow's to-do list before bed."},
+      {"tts": "Four: if you wake up, don't check your phone. Slow breathing, eyes closed. And if it goes on for weeks, talk to your doctor.", "caption": "Four: if you wake, skip the phone. Slow breathing. If it lasts weeks, see your doctor."},
+      {"tts": "[playfully] Comment three a.m. if this is you.", "caption": "Comment \"3am\" if this is you."}
+    ],
+    "cards": [
+      {"at_line": -1, "head": "Wide awake\nat 3am?"},
+      {"at_line": 0, "head": "Common\nculprits"},
+      {"at_line": 1, "head": "1. Skip the\nlate drink"},
+      {"at_line": 2, "head": "2. Cool the\nroom"},
+      {"at_line": 3, "head": "3. Brain-dump\nbefore bed"},
+      {"at_line": 4, "head": "4. Don't check\nthe clock"},
+      {"at_line": 5, "head": "Comment\n\"3am\""}
+    ],
+    "broll": [
+      {"lines": [0], "frame_prompt": "Photorealistic vertical photo: a woman in her 40s lying awake in bed at night, eyes open, soft blue moonlight, a glowing clock on the nightstand. No text.", "motion_prompt": "She turns over restlessly and stares at the ceiling, very slow camera push-in. Realistic motion."},
+      {"lines": [1, 2], "frame_prompt": "Photorealistic vertical photo: a woman in her late 30s opening a bedroom window on a cool evening, sheer curtains moving, dim cozy lamp light. No text.", "motion_prompt": "She opens the window and the curtains drift in the breeze, she breathes in calmly, slow camera drift. Realistic motion."},
+      {"lines": [3], "frame_prompt": "Photorealistic vertical photo: a woman around 40 sitting on her bed writing in a notebook by warm lamp light before sleep, relaxed. No text.", "motion_prompt": "She writes a few lines, closes the notebook and sets it on the nightstand, slow camera push-in. Realistic motion."},
+      {"lines": [4, 5], "frame_prompt": "Photorealistic vertical photo: a woman in her late 30s sleeping peacefully in a dark, cool bedroom, phone face-down on the nightstand, soft early dawn light. No text.", "motion_prompt": "She sleeps peacefully as soft dawn light slowly brightens the room, very slow camera drift. Realistic motion."}
+    ],
+    "fb_title": "The 3am wake-up club",
+    "fb_text": "Sleep is the foundation of everything. Which tip are you trying tonight?\n\n#sleep #insomnia #perimenopause #selfcare\n\nGeneral information only, not medical advice. Talk to your doctor if poor sleep lasts more than a few weeks."
+  },
+  {
+    "id": "heart-attack-women",
+    "topic": "Heart attack signs in women",
+    "hook_tts": "[serious] Most of us picture a heart attack as a man clutching his chest. [warmly] In women, it can look very different.",
+    "hook_caption_split": ["Most of us picture a heart attack as a man clutching his chest.", "In women, it can look very different."],
+    "lines": [
+      {"tts": "Heart disease is the number one killer of women. Yet many don't recognize the warning signs.", "caption": "Heart disease is the #1 killer of women. Many don't recognize the warning signs."},
+      {"tts": "Chest pain or pressure is still the most common sign.", "caption": "Chest pain or pressure is still the most common sign."},
+      {"tts": "But women are more likely to also have shortness of breath, nausea, unusual tiredness, or pain in the jaw, neck, back, or arm.", "caption": "But women more often also get breathlessness, nausea, unusual tiredness, or jaw, neck, back or arm pain."},
+      {"tts": "Women often wait longer to get help, because they think it's indigestion or stress. Don't.", "caption": "Women often wait longer, thinking it's indigestion or stress. Don't."},
+      {"tts": "If you think it's a heart attack, call nine one one right away.", "caption": "If you think it's a heart attack, call 911 right away."},
+      {"tts": "[warmly] Share this. You never know who needs it.", "caption": "Share this. You never know who needs it."}
+    ],
+    "cards": [
+      {"at_line": -1, "head": "Heart attacks look\ndifferent in women"},
+      {"at_line": 0, "head": "#1 killer\nof women"},
+      {"at_line": 2, "head": "Signs to\nknow"},
+      {"at_line": 3, "head": "Don't wait\nit out"},
+      {"at_line": 4, "head": "Call 911"},
+      {"at_line": 5, "head": "Share this"}
+    ],
+    "broll": [
+      {"lines": [0, 1], "frame_prompt": "Photorealistic vertical photo: a group of diverse women in their 40s and 50s walking together in a park, smiling, bright morning, healthy and active. No text.", "motion_prompt": "They walk toward camera chatting and laughing, gentle handheld tracking shot. Realistic motion."},
+      {"lines": [2], "frame_prompt": "Photorealistic vertical photo: a woman in her late 40s at a kitchen counter pausing with a hand on her upper back and a slightly uncomfortable expression, natural light, non-dramatic. No text.", "motion_prompt": "She pauses, rolls her shoulder and frowns slightly in discomfort, slow camera push-in. Realistic motion."},
+      {"lines": [3], "frame_prompt": "Photorealistic vertical photo: a woman in her late 40s sitting on the edge of her bed looking tired and short of breath, her partner beside her looking concerned, soft light. No text.", "motion_prompt": "Her partner puts a hand on her shoulder and reaches for a phone, calm but concerned, slow camera drift. Realistic motion."},
+      {"lines": [4, 5], "frame_prompt": "Photorealistic vertical photo: a woman in her 40s holding a smartphone to her ear, calm and focused, bright home hallway. No text, no logos.", "motion_prompt": "She speaks clearly into the phone with a determined expression, slow camera push-in. Realistic motion."}
+    ],
+    "fb_title": "This could save someone's life",
+    "fb_text": "Please share this with the women in your life.\n\n#hearthealth #womenshealth #heartattack #knowthesigns\n\nGeneral information only, not medical advice. In an emergency, call 911."
+  }
+]
