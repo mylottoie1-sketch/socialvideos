@@ -8,5 +8,17 @@
     "sources": [],
     "note": "Day 1, made by hand (presenter at start and end)",
     "planner_url": "https://app.metricool.com/planner/calendar?blogId=7945364&openWithPostUuid=-6686258057879207323"
+  },
+  {
+    "id": "muscle-after-30",
+    "topic": "Muscle loss after 30 and strength training",
+    "date": "2026-11-07",
+    "credits": 11695,
+    "post_time": "2026-11-08T10:30 Europe/Dublin",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7945364&openWithPostUuid=7977884858717261759",
+    "sources": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC4354895/",
+      "https://www.newswise.com/articles/strength-training-prevents-muscle-loss-and-keeps-you-hoisting-your-own-groceries"
+    ]
   }
 ]
